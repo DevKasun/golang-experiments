@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background: #3d3d3d;
+}
+
+header {
+    background: #333333;
+    padding: 1.6em;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    font-size: 18px;
+    padding: 0;
+}
+
+main {
+    padding: 1.6em
+}
